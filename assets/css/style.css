@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+
+.container{
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+   
+}
+
+
+.container input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+   margin-bottom: 20px;
+   border-radius: 20px;
+   
+}
+
+#button{  
+  border-radius: 20px;
+}
+
+table tr{
+    border: 2px solid black;
+    height: 50px;
+}
+
+table{
+     border-collapse:collapse ;
+     width: 100%;
+}
+
+
